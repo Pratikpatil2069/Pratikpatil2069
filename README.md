@@ -12,7 +12,7 @@
 <h3>📫 Connect With Me</h3>
 <p>
 🔗 <a href="https://www.linkedin.com/in/pratik-patil-95599a2ba/" target="_blank">LinkedIn</a><br>
-📧 <a href="mailto:pratikpatil2069@gmail.com" target="_blank">pratikpatil2069@gmail.com</a>
+📧 <a href="mailto:pratikpatil2069@gmail.com" target="_blank">pratikpatil2069@gmail.com</a><br>
 🔗 <a href="https://leetcode.com/u/Pratikpatil2069/" target="_blank">LeetCode</a><br>
 📄 <a href="https://drive.google.com/file/d/1_jssP3mz_qiENGztMnyodlEYpi13a0lG/view?usp=drivesdk" target="_blank">Resume</a><br>
 
@@ -31,7 +31,7 @@
 <h4>⚙ Backend & Database</h4>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </p>
