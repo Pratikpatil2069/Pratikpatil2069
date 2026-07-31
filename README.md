@@ -5,7 +5,7 @@
 🎓 Final-year Computer Science Engineering student <br>
 💻 Java Full Stack Developer (Backend-focused) <br>
 🧠 Strong in Data Structures & Algorithms <br>
-🏆 Solved 500+ problems on LeetCode
+🏆 Solved 700+ problems on LeetCode
 </p>
 
 <hr>
